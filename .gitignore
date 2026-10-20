@@ -1,5 +1,3 @@
-
 /build/
-/.dart_tool/
-/ios/Pods/
-/ios/.symlinks/
+/build/
+/build/
